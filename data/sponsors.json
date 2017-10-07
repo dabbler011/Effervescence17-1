@@ -7,6 +7,7 @@
 			"Title Sponsor",
 			"A'la Mode"
 		],
+		"website": "https://www.fbbonline.in/",
 		"priority": 5
 	},
 	{
@@ -16,6 +17,7 @@
 		"categories": [
 			"Online Music Streaming Partner"
 		],
+		"website": "https://www.saavn.com/",
 		"priority": 10
 	},
 	{
@@ -25,6 +27,7 @@
 		"categories": [
 			"Online Ticket Partner"
 		],
+		"website": "https://www.thecollegefever.com/",
 		"priority": 10
 	},
 	{
@@ -34,6 +37,7 @@
 		"categories": [
 			"Web Hosting Partner"
 		],
+		"website": "https://www.znetlive.com/",
 		"priority": 10
 	},
 	{
@@ -43,6 +47,7 @@
 		"categories": [
 			"Mobility Partner"
 		],
+		"website": "https://www.atlascycles.co.in/",
 		"priority": 12
 	},
 	{
@@ -52,6 +57,7 @@
 		"categories": [
 			"Cashback Partner"
 		],
+		"website": "https://www.paisawapas.com/",
 		"priority": 11
 	},
 	{
@@ -61,6 +67,7 @@
 		"categories": [
 			"Talent Partner"
 		],
+		"website": "https://www.mtvindia.com/labs/",
 		"priority": 11
 	},
 	{
@@ -70,6 +77,7 @@
 		"categories": [
 			"Food Partner"
 		],
+		"website": "https://www.baskinrobbinsindia.com/",
 		"priority": 10
 	},
 	{
@@ -79,6 +87,7 @@
 		"categories": [
 			"Recording Partner"
 		],
+		"website": "https://www.thesixstrings.com/",
 		"priority": 12
 	},
 	{
@@ -88,6 +97,7 @@
 		"categories": [
 			"Protection Partner"
 		],
+		"website": "https://manforcecondoms.com/",
 		"priority": 11
 	},
 	{
@@ -97,6 +107,7 @@
 		"categories": [
 			"Online Media Partner"
 		],
+		"website": "https://www.brainbuxa.com/",
 		"priority": 10
 	},
 	{
@@ -106,6 +117,7 @@
 		"categories": [
 			"Education Partner"
 		],
+		"website": "https://www.time4education.com/",
 		"priority": 11
 	},
 	{
@@ -115,6 +127,7 @@
 		"categories": [
 			"Celebrity Food Partner"
 		],
+		"website": "https://www.pindballuchi.com/",
 		"priority": 12
 	},
 	{
@@ -124,6 +137,7 @@
 		"categories": [
 			"Online Media Partner"
 		],
+		"website": "https://www.paisawapas.com/student-stories/",
 		"priority": 10
 	},
 	{
@@ -133,6 +147,7 @@
 		"categories": [
 			"Blogger Outreach Partner"
 		],
+		"website": "https://www.blogadda.com/",
 		"priority": 12
 	},
 	{
@@ -142,6 +157,7 @@
 		"categories": [
 			"Branding Partner"
 		],
+		"website": "https://www.rdadvertising.org/",
 		"priority": 13
 	},
 	{
@@ -151,6 +167,117 @@
 		"categories": [
 			"Title Sponsor"
 		],
+		"website": "https://www.comio.in/",
 		"priority": 0
+	},
+	{
+		"id": 915,
+		"name": "Symphony Coolers",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/symphony.jpg",
+		"categories": [
+			"Associate Sponsor"
+		],
+		"website": "http://www.symphonylimited.com/",
+		"priority": 15
+	},
+	{
+		"id": 916,
+		"name": "Entrench Electronics",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/entrench.png",
+		"categories": [
+			"Workshop Partner"
+		],
+		"website": "entrench.in/",
+		"priority": 16
+	},
+	{
+		"id": 917,
+		"name": "Amul",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/amul.png",
+		"categories": [
+			"Dairy Product Partner"
+		],
+		"website": "http://www.amul.com/",
+		"priority": 14
+	},
+	{
+		"id": 918,
+		"name": "Asteroid Learning",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/asteroid.png",
+		"categories": [
+			"Workshop Partner"
+		],
+		"website": "http://www.asteroidlearning.com/",
+		"priority": 16
+	},
+	{
+		"id": 919,
+		"name": "Max",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/max.png",
+		"categories": [
+			"Apparel Partner"
+		],
+		"website": "http://www.maxfashion.in/",
+		"priority": 15
+	},
+	{
+		"id": 920,
+		"name": "Youth4Work",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/youth.png",
+		"categories": [
+			"Online Media Partner"
+		],
+		"website": "https://www.youth4work.com/",
+		"priority": 10
+	},
+	{
+		"id": 922,
+		"name": "Kids and Kads",
+		"imageUrl": "",
+		"categories": [
+			"Event Sponsor"
+		],
+		"website": "",
+		"priority": 20
+	},
+	{
+		"id": 923,
+		"name": "Withered Witty Writers",
+		"imageUrl": "",
+		"categories": [
+			"Event Sponsor"
+		],
+		"website": "",
+		"priority": 20
+	},
+	{
+		"id": 925,
+		"name": "Hawk Eyed Photographers",
+		"imageUrl": "",
+		"categories": [
+			"Photography Partner"
+		],
+		"website": "",
+		"priority": 16
+	},
+	{
+		"id": 926,
+		"name": "Youth Incorporated",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/incorporated.jpg",
+		"categories": [
+			"Youth Partner"
+		],
+		"website": "http://www.youthincmag.com/",
+		"priority": 15
+	},
+	{
+		"id": 927,
+		"name": "Shadow Mountain",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/shadow.jpg",
+		"categories": [
+			"Adventure Partner"
+		],
+		"website": "",
+		"priority": 16
 	}
 ]
